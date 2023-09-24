@@ -16,7 +16,7 @@
 
 - 自行编译
 
-请下载 [项目源码](https://codeload.github.com/JDDKCN/KCN-GenshinPackagingTools/zip/refs/heads/main.zip) 自行编译，需要VS环境。
+请下载 [项目源码](https://github.com/JDDKCN/KCN-GenshinPackagingTools/archive/refs/heads/main.zip) 自行编译，需要VS环境。
 
 ### 软件截图
 - v0.1.0-Beta 2023/09/24
